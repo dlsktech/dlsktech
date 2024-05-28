@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DanielSzewczuk
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: [szewczuk.io](https://szewczuk.io)
+- 😄 Pronouns: he/him
