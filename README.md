@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielSzewczuk
+- 👋 Hi, I’m @dlsktech
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [dlsk.tech](https://dlsk.tech)
 - 😄 Pronouns: he/him
